@@ -1,6 +1,7 @@
+package Rectangle_class;
 import java.util.Scanner;
 
-public class Main {
+public class Demo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the width:");
